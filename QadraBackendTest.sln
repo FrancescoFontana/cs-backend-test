@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QadraBackendTest", "QadraBackendTest\QadraBackendTest.csproj", "{5580237C-46B6-4133-83CB-C445E68EDAF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QadraBackendTest.Tests", "QadraBackendTest.Tests\QadraBackendTest.Tests.csproj", "{9E4F3CED-8B4B-417A-B0C7-814FA79FD7CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5580237C-46B6-4133-83CB-C445E68EDAF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5580237C-46B6-4133-83CB-C445E68EDAF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5580237C-46B6-4133-83CB-C445E68EDAF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5580237C-46B6-4133-83CB-C445E68EDAF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E4F3CED-8B4B-417A-B0C7-814FA79FD7CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E4F3CED-8B4B-417A-B0C7-814FA79FD7CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E4F3CED-8B4B-417A-B0C7-814FA79FD7CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E4F3CED-8B4B-417A-B0C7-814FA79FD7CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
