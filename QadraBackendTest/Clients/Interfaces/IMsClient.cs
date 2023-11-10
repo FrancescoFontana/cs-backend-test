@@ -1,4 +1,5 @@
 using QadraBackendTest.Models;
+using QadraBackendTest.Models.Base;
 
 namespace QadraBackendTest.Clients.Interfaces;
 
